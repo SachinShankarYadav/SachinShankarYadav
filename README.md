@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there 👋, I'm Sachin Shankar Yadav
 
-<!--
-**SachinShankarYadav/SachinShankarYadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Cloud Computing & DevOps Enthusiast
 
-Here are some ideas to get you started:
+I enjoy building cloud-native infrastructure, automating deployments, and learning modern DevOps practices. Currently exploring AWS, Azure, GCP, Docker, Kubernetes, Terraform, Linux, Python, CI/CD, and DevSecOps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+- ☁️ AWS | Azure | GCP
+- 🐳 Docker | Kubernetes
+- 🏗️ Terraform | Infrastructure as Code (IaC)
+- 🐧 Linux | Bash | Python
+- 🔄 Git | GitHub Actions | CI/CD
+- 📊 Prometheus | Grafana
+- 🔒 DevSecOps | Cloud Security
+
+### 🎯 Current Focus
+- Cloud Architecture
+- Kubernetes
+- Infrastructure Automation
+- CI/CD Pipelines
+- Cloud Security
+- Site Reliability Engineering (SRE)
+
+📫 Connect with me:
+- LinkedIn: https://www.linkedin.com/in/sachinshankaryadav
+- GitHub: https://github.com/SachinShankarYadav
+- Gmail: Sachin764589@gmail.com
