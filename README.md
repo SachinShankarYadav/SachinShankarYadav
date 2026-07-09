@@ -24,4 +24,3 @@ I enjoy building cloud-native infrastructure, automating deployments, and learni
 📫 Connect with me:
 - LinkedIn: https://www.linkedin.com/in/sachinshankaryadav
 - GitHub: https://github.com/SachinShankarYadav
-- Gmail: Sachin764589@gmail.com
